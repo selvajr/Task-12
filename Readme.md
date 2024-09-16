@@ -7,6 +7,6 @@
 
 
   ### 2.Event-Update-Page
-    * __[Event-Update-Page Folder](https://github.com/selvajr/Task_12/tree/main/Event-Update-page-Folder)__
-    * __[Event-Update-Page Html](https://github.com/selvajr/Task_12/blob/main/Event-Update-page-Folder/index.html)__
-    * __[Event-update-Page Css](https://github.com/selvajr/Task_12/tree/main/Event-Update-page-Folder/CSS)__
+    * __[Event-Update-Page-Folder](https://github.com/selvajr/Task_12/tree/main/Event-Update-page-Folder)__
+    * __[Event-Update-Page-Html](https://github.com/selvajr/Task_12/blob/main/Event-Update-page-Folder/index.html)__
+    * __[Event-update-Page-Css](https://github.com/selvajr/Task_12/tree/main/Event-Update-page-Folder/CSS)__
