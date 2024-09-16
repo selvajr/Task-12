@@ -1,0 +1,49 @@
+.con1 {
+    height: 100%;
+    border: solid black 1px;
+}
+.texttt{
+    border: solid black 1px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.con2 { 
+    height: 150px;
+    width: 210px;
+    margin: 1%;
+    border: solid black 1px;
+    text-align: center;
+}
+.rectangle1{
+    height: 80px;
+    position: relative;
+    top: 19px;
+    left: 20px;
+    width: 90px !important;
+}
+.circle1{
+    border: solid black 1px;
+    height: 65px;
+    width: 65px;
+    border-radius: 50px;
+    margin-top: 6px;
+    margin-left: 0px;
+
+}
+.center1 {
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+}
+.center2 {
+    position: relative;
+    top: 3px;
+    left: 10px;
+    font-size: 15px;
+}
+.fleex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
