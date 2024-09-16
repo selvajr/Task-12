@@ -1,6 +1,6 @@
 # __**Day 12 Task**__
 
-  ### 1.__Event-Update-Page__
+  ###  __1.Event-Update-Page__
  
   * [__Event-Update-Folder__](https://github.com/selvajr/Task-12/tree/main/Event-Update-Folder)
   * __[Event-Update-HTML-Page](https://github.com/selvajr/Task-12/blob/main/Event-Update-Folder/index.html)__
