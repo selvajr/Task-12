@@ -2,7 +2,7 @@
 
  1. ## __Event-Update-Page __
  
-  * __[Event-Update-Folder](../Task%2012/Event-Update-Folder/)__
+  * __[Event-Update-Folder](https://github.com/selvajr/Task-12/tree/main/Event-Home-Page)__
   * __[Event-Update-HTML-Page](../Task%2012/Event-Update-Folder/index.html)__
   * __[Event-Update-Page-CSS](../Task%2012/Event-Update-Folder/CSS/styles.css)__
 
